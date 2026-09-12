@@ -1,0 +1,11 @@
+modelo\Cuadrado.class
+UI\FrmTrapecio.class
+app\principal\SistemaGeoCal.class
+UI\FrmCuadrado.class
+UI\FrmTrian.class
+modelo\Poligono.class
+UI\FrmMenuPrincipal.class
+modelo\Rectangulo.class
+modelo\Trapecio.class
+modelo\Triangulo.class
+UI\FrmRectangulo.class
